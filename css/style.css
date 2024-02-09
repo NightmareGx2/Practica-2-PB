@@ -4,6 +4,9 @@ position: relative;
 }
 main{
 background-color: rgba(0, 0, 0, 0.432);
+size-adjust: 100px;
+margin: 0%;
+display: flexbox;
 }
 footer{
     background-color: rgba(202, 210, 218, 0.637);
@@ -12,11 +15,17 @@ footer{
 main p{
     font-family: 'Segoe UI';
     color: ghostwhite;
+    text-align: center;
+    size: 60px;
 }
-header h1{
+header h2{
 text-align: right;
 display: inline-block;
 font-family: 'Segoe UI';
+}
+
+header nav ul li {
+    font-family: 'Segoe UI';
 }
 
 video {
