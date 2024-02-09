@@ -18,13 +18,11 @@ main p{
     text-align: center;
     size: 60px;
 }
-<<<<<<< HEAD
 header h2{
 text-align: right;
 display: inline-block;
 font-family: 'Segoe UI';
 }
-=======
 header {
     background-color: #0a0a0a; 
     color: #a80404; 
@@ -34,7 +32,6 @@ header {
     align-items: center; 
     }
     
->>>>>>> 552aa02eacec9fc9b958e001865a0eb6dfd830fc
 
 header nav ul li {
     font-family: 'Segoe UI';
