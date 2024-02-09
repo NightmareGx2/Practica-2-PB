@@ -13,11 +13,15 @@ main p{
     font-family: 'Segoe UI';
     color: ghostwhite;
 }
-header h1{
-text-align: right;
-display: inline-block;
-font-family: 'Segoe UI';
-}
+header {
+    background-color: #0a0a0a; 
+    color: #a80404; 
+    padding: 20px; 
+    display: flex; 
+    justify-content:center; 
+    align-items: center; 
+    }
+    
 
 video {
     position: fixed;
@@ -26,3 +30,9 @@ video {
     height:120%;
     z-index: -1;
   }
+
+  .Titulo {
+    font-size: 24px; 
+    margin: 0; 
+    }
+    
